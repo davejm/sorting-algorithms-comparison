@@ -7,7 +7,8 @@ This python script defines functions that enable the user to test and compare th
 ##Optional / Required Modules
 
 Apart from in-built modules, this code defines a function to plot a comparison of execution times for each algorithm.
-The necessary module for this to work is **matplotlib**. If you are on windows I recommend getting a distribution of python that comes with many packages pre-installed such as 'python(x,y)' or winpython.
+The necessary module for this to work is **matplotlib**. If you are on windows I recommend getting a distribution of python that comes with many packages pre-installed such as **python(x,y)** or **WinPython**.
+If you are on linux then I recommend using your package manager to install matplotlib (e.g. `sudo apt-get install python-matplotlib).
 
 ##Example Usage
 
