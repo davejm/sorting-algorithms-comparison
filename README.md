@@ -23,7 +23,7 @@ print("Shuttle took: " + str(test(shuttle, randomlist)) + "seconds.")
 produceresults(1, 1000, 20) #Comparison graph between algorithms acting on list of size 1 to 1000, incrementing by 20
 ````
 
-##Licence
+##License
 <pre>
 The MIT License(MIT)
 
