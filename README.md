@@ -12,7 +12,7 @@ If you are on linux then I recommend using your package manager to install matpl
 
 ##Example Usage
 
-````
+````python
 from sorting import getnewlist, bubble, shuttle, test, produceresults
 
 randomlist = getnewlist(500) #Get a list of 500 random numbers
